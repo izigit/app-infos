@@ -3,7 +3,7 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.15.0</title>
+            <title>Version 1.9.16</title>
             <description>desc</description>
             <pubDate>Thur, 21 Jan 2021 07:00:00 +5002</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=io.izifood.app" sparkle:version="1.9.16" sparkle:os="android" />
